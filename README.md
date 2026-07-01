@@ -40,7 +40,7 @@ This project demonstrates strong understanding of:
 - Hibernate ORM
 - MySQL
 - JDBC
-- Maven (if used)
+- Maven 
 
 ---
 
